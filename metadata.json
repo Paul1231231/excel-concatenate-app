@@ -1,0 +1,5 @@
+{
+  "name": "Excel Forge",
+  "description": "A powerful utility to concatenate and split Excel files while preserving header instructions and formatting structure.",
+  "requestFramePermissions": []
+}
